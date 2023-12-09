@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Proyecto integrado DAW](README.md)
+* [Proyecto integrado DAW/DAM](README.md)

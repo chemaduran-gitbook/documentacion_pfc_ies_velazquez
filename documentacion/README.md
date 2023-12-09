@@ -1,8 +1,8 @@
-# Proyecto integrado DAW
+# Proyecto integrado DAW/DAM
 
 ## 0. Descripción
 
-Proyecto integrado DAW.&#x20;
+Proyecto integrado DAW/DAM.&#x20;
 
 Planificación temporal - Documentación.&#x20;
 
