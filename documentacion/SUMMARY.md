@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Proyecto integrado DAW/DAM](README.md)
-* [1. Intro](1.-intro.md)
+* [1. Introducción](1.-introduccion.md)
 * [2. Estudio de viabilidad](2.-estudio-de-viabilidad.md)
 * [3. Análisis del Sistema de información](3.-analisis-del-sistema-de-informacion.md)
 * [4. Construcción del sistema](4.-construccion-del-sistema.md)
